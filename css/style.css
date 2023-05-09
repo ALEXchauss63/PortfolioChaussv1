@@ -61,7 +61,6 @@ body{
     justify-content: center;
     align-items: center;
     width: 100%;
-    background-image: var(--nav-bg);
 }  
 .logo-container{
     max-width: 950px;
